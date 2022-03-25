@@ -1,10 +1,10 @@
 <p align="center">
-<img src="https://github.com/RflBotzz/rflv1/blob/v1/settings/rflv1.jpg" alt="rflv1 BOT" width="200"/>
+<img src="https://github.com/RflBotzz/rflv1/blob/v1/settings/rflv1.jpg" alt="rflv1 ~" width="200"/>
 
 <p align="center">
     <a href="https://RflBotzz.github.io">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Thank+for+using+rflv1+bot+🤗"
+            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Thank+for+using+rflv1+bot+ðŸ¤—"
             alt="RflBotzz"
         />
     </a>
@@ -26,10 +26,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/RflBotzz/rflv1#instalasi">Installation</a> •
-  <a href="https://github.com/RflBotzz/rflv1#thanks-to">Thanks to</a> •
+  <a href="https://github.com/RflBotzz/rflv1#instalasi">Installation</a> â€¢
+  <a href="https://github.com/RflBotzz/rflv1#thanks-to">Thanks to</a> â€¢
   <a href="https://github.com/RflBotzz/rflv1#donate">Donate</a></br>
-  <a href="https://github.com/RflBotzz/rflv1#Official-Group"> Official Group Bot</a> •
+  <a href="https://github.com/RflBotzz/rflv1#Official-Group"> Official Group Bot</a> â€¢
   <a href="https://github.com/RflBotzz/rflv1#settings">Settings</a>
 
 </p>
@@ -67,7 +67,7 @@ You can edit owner and other in `'./control.json`
 "NamaBot":"rflv1", 
 "NomorOwner":"62895410068780", 
 "NomorOwner2":"+62895410068780", 
-"NamaOwner":"�rflv1", 
+"NamaOwner":"©rflv1", 
 "Gopay":"62895410068780"
 }
 ```
