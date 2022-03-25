@@ -4,7 +4,7 @@
 <p align="center">
     <a href="https://RflBotzz.github.io">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Thank+for+using+rflv1+bot+ðŸ¤—"
+            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Thank+for+using+rflv1+bot"
             alt="RflBotzz"
         />
     </a>
