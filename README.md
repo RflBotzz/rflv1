@@ -56,7 +56,7 @@ Click the deploy icon below !
 > git clone https://github.com/RflBotzz/rflv1.git
 > cd rflv1
 > npm install
-> node rfl.js
+> node index.js
 ```
 
 ## settings
